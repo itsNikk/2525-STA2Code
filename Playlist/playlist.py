@@ -1,4 +1,3 @@
-
 # Per aprire il terminale di VSCode usare la shortcut CTRL+J
 # oppure il menu Terminal in alto nell'editor.
 
@@ -8,5 +7,5 @@
 #4 vedere l'output del codice
 
 # In Python questo è un commento.
-# Un commento non fa parte del programma, sono delle note personali! :)
-print("Ciao")
+# I commenti sono solo note personali! :)
+print("Ciao");
